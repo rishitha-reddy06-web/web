@@ -3,7 +3,7 @@ Hello world web application with Maven + Java + Servlets + Tomcat
 
 ## Compile app 
 ```
-mvn clean install
+mvn clean installvsgs
 ```
 The compiled file will been stored in `target` folder as `hello.war`
 
